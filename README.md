@@ -1,4 +1,4 @@
-# opencv-fix-path-on-OSX
+# Readme
 
 #### Fix path error when installed OpenCV 3.1.0 through CMake build on OSX
 
